@@ -1,11 +1,12 @@
+
+
+### Hi there 👋
+<!--
 <p align="center">
   <a href="https://github/P-Duran">
     <img alt="banner" src="https://github.com/P-Duran/P-Duran/blob/main/resources/pduran.gif" width="500">
   </a>
 </p>
-
-### Hi there 👋
-<!--
 **P-Duran/P-Duran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![til](./resources/pduran.gif)
 Here are some ideas to get you started:

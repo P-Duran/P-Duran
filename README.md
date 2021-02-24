@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github/P-Duran">
-    <img alt="banner" src="https://github.com/P-Duran/P-Duran/blob/main/resources/pduran.gif">
+    <img alt="banner" src="https://github.com/P-Duran/P-Duran/blob/main/resources/pduran.gif" width="500">
   </a>
 </p>
 
